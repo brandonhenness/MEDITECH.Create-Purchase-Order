@@ -1,4 +1,4 @@
-# MEDITECH Magic Purchase Order Creation Script
+# MEDITECH Create Purchase Order
 
 This project automates the creation of purchase orders in the MEDITECH Magic system, specifically targeting the MM module. It integrates with Excel files for input, uses Python for data handling, and interacts with the MEDITECH GUI to streamline order management.
 
@@ -66,7 +66,7 @@ This project automates the creation of purchase orders in the MEDITECH Magic sys
 
 ## License
 
-MEDITECH Magic Purchase Order Creation Script is licensed under the [GNU General Public License v3.0](LICENSE).
+MEDITECH Create Purchase Order is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## Contributing
 
